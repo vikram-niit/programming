@@ -1,0 +1,8 @@
+1. add 2 numbers
+2. find sum of numbers in an array
+3. compare the triplets
+4. A very big sum
+you have earned your 1st star
+5. Diagonal difference
+6. plusMinus
+7. Staircase
